@@ -4,7 +4,7 @@ _Es un programa que contiene la implementación de la API de ML._
 
 ## Comenzando 🚀
 
-_Clone el repositorio con el comando: git clone https://github.com/LiSierra/TestAppML.git
+_Clone el repositorio con el comando: git clone https://github.com/LiSierra/TestAppML.git_
 
 
 

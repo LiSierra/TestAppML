@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="margin_left">16dp</dimen>
+    <dimen name="margin_right">16dp</dimen>
+    <dimen name="margin_top">16dp</dimen>
+    <dimen name="margin_top_image_view">10dp</dimen>
+    <dimen name="margin_bottom_image_view">10dp</dimen>
+    <dimen name="margin_top_button">5dp</dimen>
+    <dimen name="margin_bottom_button">5dp</dimen>
+    <dimen name="margin_bottom">16dp</dimen>
+    <dimen name="layout_height_spinner">30dp</dimen>
+    <dimen name="np_width">34dp</dimen>
+    <dimen name="np_height">30dp</dimen>
+    <dimen name="value_number_picker">1</dimen>
+    <dimen name="margin_0">0dp</dimen>
+    <dimen name="margin_20">20dp</dimen>
+    <dimen name="margin_242">242dp</dimen>
+    <dimen name="margin_102">102dp</dimen>
+    <dimen name="margin_48">48dp</dimen>
+    <dimen name="margin_32">32dp</dimen>
+    <dimen name="padding">10dp</dimen>
+    <dimen name="size_string_16">16sp</dimen>
+    <dimen name="height_card_view">50dp</dimen>
+    <dimen name="height_100">100dp</dimen>
+    <dimen name="height_150">150dp</dimen>
+    <dimen name="size_0">0dp</dimen>
+    <dimen name="width_27">27dp</dimen>
+    <dimen name="width_91">91dp</dimen>
+    <dimen name="corner_radius_cardview">5dp</dimen>
+    <dimen name="cardCornerRadius">10dp</dimen>
+    <dimen name="cardElevation">5dp</dimen>
+    <dimen name="margin_card">5dp</dimen>
+    <dimen name="margin_start">10dp</dimen>
+    <dimen name="margin_end">10dp</dimen>
+</resources>

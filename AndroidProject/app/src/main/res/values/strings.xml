@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Test Api ML</string>
+    <string name="search">Search</string>
+    <string name="select_country">Seleccione País ...</string>
+    <string name="name_item">Buscar productos</string>
+    <string name="error_pais">Error al cargar los países</string>
+    <string name="error_producto">Ingrese una busqueda valida</string>
+    <string name="price">Precio</string>
+    <string name="overview">Descripción</string>
+    <string name="without_items">No hay más productos disponibles</string>
+    <string name="empty_items">No se encontraron productos, intente con otra busqueda</string>
+    <string name="without_overview">Sin descripción disponible</string>
+</resources>

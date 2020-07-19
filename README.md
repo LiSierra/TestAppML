@@ -27,8 +27,10 @@ _Software requerido:_
 
 _Herramientas utilizadas para crear el proyecto_
 
+```
 * Gradle 5.6.4
 * Butterknife 10.0.0
 * Picasso 2.5.2
 * Retrofit 2.5.0
 * Gson 2.5.0
+```
